@@ -1,0 +1,13 @@
+/* your styles go here */
+.box-masonry .box-masonry-image.with-hover-overlay.red:before {
+    background: rgb(255, 198, 198);
+}
+
+.sidebar-heading{
+    font-size: 32px;
+}
+
+.unavailable {
+    font-size: 14px;
+    color: rgb(213, 5, 5);
+}
